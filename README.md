@@ -22,18 +22,15 @@ With a professional background as a **Senior QA Engineer**, I honed skills in pr
 ## 💻 Projects  
 
 Here are some of the projects I’m most proud of:  
-- **[Project 1: Machine Learning:
- Predicting Payment Difficulties](#)**  
+1. **[ Machine Learning: Predicting Payment Difficulties](#)**  
   Developed a machine learning model to predict client payment difficulties, using advanced feature engineering and class imbalance techniques.  
   *Skills: Python, Scikit-learn, XGBoost, Feature Selection*  
 
-- **[Project 2: Statistical Inference:
- Exploratory Data Analysis on Red Wine datset](#)**  
+2. **[ Statistical Inference: Exploratory Data Analysis on Red Wine datset](#)**  
   Conducted EDA and statistical analysis on a red wine dataset to determine what features influence wine quality the most.  
   *Skills: Pandas, Matplotlib, Seaborn*  
 
-- **[Project 3:
-     Data Wrangling with Python: Analysis of South Korea Covid-19 dataset](#)**  
+3. **[Data Wrangling with Python: Analysis of South Korea Covid-19 dataset](#)**  
   Using visualization techniques and EDA uncover insights about the 2019 Civil pandemic fighting plan and how it could have been improved.  
   *Skills: Python, Automation*  
 
