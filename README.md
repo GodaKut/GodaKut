@@ -24,15 +24,15 @@ With a professional background as a **Senior QA Engineer**, I honed skills in pr
 Here are some of the projects I’m most proud of:  
 1. **[ Machine Learning: Predicting Payment Difficulties](#)**  
   Developed a machine learning model to predict client payment difficulties, using advanced feature engineering and class imbalance techniques.  
-  *Skills: Python, Scikit-learn, XGBoost, Feature Selection*  
+  *Skills: Python, Pandas, Data Cleaning, EDA, Visualizations, Hypothesis testing, Scikit-learn, Hyperparameter Tuning using Bayesian Optimization via Hyperopt  for XGBoost, LightGBM, and Catboost, Feature Selection, FastAPI*  
 
 2. **[ Statistical Inference: Exploratory Data Analysis on Red Wine datset](#)**  
   Conducted EDA and statistical analysis on a red wine dataset to determine what features influence wine quality the most.  
-  *Skills: Pandas, Matplotlib, Seaborn*  
+  *Skills: Python, Pandas, Data Cleaning, Visualizations with Matplotlib and Seaborn, Hypothesis testing, Linear and Logistic Regression*  
 
-3. **[Data Wrangling with Python: Analysis of South Korea Covid-19 dataset](#)**  
-  Using visualization techniques and EDA uncover insights about the 2019 Civil pandemic fighting plan and how it could have been improved.  
-  *Skills: Python, Automation*  
+3. **[Data Wrangling with Python: Analysis of South Korea COVID-19 dataset](#)**  
+  Using visualization techniques and EDA uncover insights about the 2019 Covid pandemic fighting plan and how it could have been improved.  
+  *Skills: Python, Pandas, Data Cleaning, Visualizations with Matplotlib and Seaborn, Hypothesis testing, Correlation analysis
 
 Check out my [repositories](#) for more!  
 
@@ -46,12 +46,12 @@ Check out my [repositories](#) for more!
 
 ## 📫 How to Reach Me  
 - **LinkedIn**: [Goda Kutkevičiūtė](https://www.linkedin.com/in/goda-kutkevi%C4%8Di%C5%ABt%C4%97-817023132/)  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- **Email**: [goda.kutkeviciute@gmail.com](goda.kutkeviciute@gmail.com)  
 
 ---
 
 ## ⚡ Fun Fact  
-I enjoy diving into challenging datasets, but when I’m not at my desk, I love exploring nature and learning new skills.  
+I enjoy diving into challenging datasets, but when I’m not at my desk, I love surfing, painting and bouldering.  
 
 Let’s collaborate and build something amazing together!  
 
