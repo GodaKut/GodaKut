@@ -26,7 +26,7 @@ Here are some of the projects I’m most proud of:
   Developed a machine learning model to predict client payment difficulties, using advanced feature engineering and class imbalance techniques.  
   *Skills: Python, Pandas, Data Cleaning, EDA, Visualizations, Hypothesis testing, Scikit-learn, Hyperparameter Tuning using Bayesian Optimization via Hyperopt  for XGBoost, LightGBM, and Catboost, Feature Selection, FastAPI*  
 
-2. **[ Statistical Inference: Exploratory Data Analysis on Red Wine datset](https://github.com/GodaKut/Portfolio-DS-projects/tree/main/Statistical%20Inference)**  
+2. **[ Statistical Inference: Exploratory Data Analysis on Red Wine dataset](https://github.com/GodaKut/Portfolio-DS-projects/tree/main/Statistical%20Inference)**  
   Conducted EDA and statistical analysis on a red wine dataset to determine what features influence wine quality the most.  
   *Skills: Python, Pandas, Data Cleaning, Visualizations with Matplotlib and Seaborn, Hypothesis testing, Linear and Logistic Regression*  
 
